@@ -1,2 +1,2 @@
 # codecademy_projects
-Created with CodeSandbox
+this the python projects I did while i study python on codecademy pro
